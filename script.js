@@ -27,7 +27,7 @@ var int=setInterval(function(){
         document.querySelector("#timerval").textContent=time;
     }else{
         clearInterval(int);
-        document.querySelector("#panelbtm").innerHTML=`<h1>Game Over &#127881;</h1>`
+        document.querySelector("#panelbtm").innerHTML=`<h1>Gowri stop this and sleep now start yoga tomorrow XD &#127881;</h1>`
     }
 },1000)
 }
